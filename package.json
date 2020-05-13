@@ -1,0 +1,12 @@
+{
+  "name": "finalproject",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11",
+    "multer": "^1.4.2",
+    "jsonwebtoken": "*",
+    "bcrypt": "*"
+  }
+}
